@@ -1,4 +1,5 @@
  🎬 PlayTube — Video Streaming Platform
+ 
 PlayTube is a full-stack video streaming platform built with React, Node.js, Express.js and MongoDB. It provides a YouTube-inspired experience with video streaming, Shorts, channels, subscriptions, playlists, comments, creator tools, recommendations and AI-powered search.
 This README is written specifically for the project structure and code contained in this repository.
 🚀 Project Overview
